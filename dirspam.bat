@@ -64,7 +64,7 @@ start cmd /k "color 4 & cd /d C:\Users\elina & echo Running dir /s in popup wind
 start cmd /k "color 4 & cd /d C:\Users\elina & echo Running dir /s in popup window 3... & dir /s"
 
 
-start cmd /k "color 4 & echo ur cooked "
+start cmd /k "color 4 & echo woah "
 start cmd /k "color 4 & echo ur cooked "
 start cmd /k "color 4 & echo ur cooked "
 start cmd /k "color 4 & echo ur cooked "
@@ -72,6 +72,7 @@ start cmd /k "color 4 & echo ur cooked "
 
 color C
 echo.
+
 
 
 
