@@ -18,7 +18,7 @@ echo Made by emils
 
 echo       ========================================================
 echo        1. tufftext
-echo        2. CMT Test
+echo        2. CMD Test
 echo        3. dirspam
 echo        4. Arttest
 echo        5. Exit
